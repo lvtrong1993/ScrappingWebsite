@@ -1,0 +1,12 @@
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/default.aspx?aspxerrorpath=/Handler/List/GetZoneData.ashx">here</a>.</h2>
+</body></html>
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/default.aspx?aspxerrorpath=/Handler/List/GetZoneData.ashx">here</a>.</h2>
+</body></html>
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/default.aspx?aspxerrorpath=/Handler/List/GetZoneData.ashx">here</a>.</h2>
+</body></html>
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/default.aspx?aspxerrorpath=/Handler/List/GetZoneData.ashx">here</a>.</h2>
+</body></html>
