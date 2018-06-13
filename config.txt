@@ -1,0 +1,11 @@
+﻿/*
+	CONFIG FILE
+	- Vui lòng không phá vỡ cấu trúc file này, bạn có thể thay đổi các giá trị tại các mục category ID và number Of Page để lấy kết quả phù hợp.
+	- Các giá trị có thể thay đổi:
+		+category ID: id của chuyên mục
+				1: Thời trang, 2: Du học, 3:Thể thao, 4 Âm nhạc, 5: Du lịch
+		+number Of Page: Số trang tin cần lấy trong chuyên mục trên
+*/
+-Options-
+category ID: 3,
+number Of Page: 3
